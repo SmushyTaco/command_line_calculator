@@ -1,0 +1,9 @@
+[package]
+name = "calculator"
+version = "1.0.0"
+authors = ["SmushyRepo"]
+description = "A simple command-line calculator."
+edition = "2018"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
