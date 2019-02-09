@@ -1,4 +1,4 @@
 [[package]]
-name = "rust_calculator"
+name = "command_line_calculator"
 version = "1.0.0"
 

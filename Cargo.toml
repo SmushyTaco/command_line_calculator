@@ -1,9 +1,12 @@
 [package]
-name = "rust_calculator"
+name = "command_line_calculator"
 version = "1.0.0"
 authors = ["SmushyRepo"]
 description = "A simple command-line calculator."
 edition = "2018"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/SmushyRepo/command_line_calculator/"
+homepage = "https://github.com/SmushyRepo/command_line_calculator/"
+documentation = "https://github.com/SmushyRepo/command_line_calculator/"
 
 [dependencies]
