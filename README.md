@@ -25,7 +25,7 @@ Cargo: https://crates.io/crates/command_line_calculator/
 ### How to Update command_line_calculator
 1. Open your Console/Terminal/Powershell/Command Prompt
 
-2. Run "cargo update --package command_line_calculator"
+2. Run "cargo install command_line_calculator --force"
 
 ### How to Uninstall command_line_calculator
 1. Open your Console/Terminal/Powershell/Command Prompt.
