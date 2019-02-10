@@ -10,7 +10,7 @@ Cargo: https://crates.io/crates/command_line_calculator/
 ### How To Install Cargo
 1. Open your Console/Terminal/Powershell/Command Prompt.
 
-2. Install cargo https://doc.rust-lang.org/cargo/getting-started/installation.html/
+2. Install cargo https://doc.rust-lang.org/cargo/getting-started/installation.html
 
 ### How To Install command_line_calculator
 1. Open your Console/Terminal/Powershell/Command Prompt.
